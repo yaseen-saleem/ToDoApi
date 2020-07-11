@@ -1,0 +1,2 @@
+1) Made an Asp.net core Web Api Project
+2) Done Api Testing Get,Post,Put,Delete
